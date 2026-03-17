@@ -1,0 +1,23 @@
+# Jupyter / IPython
+.ipynb_checkpoints/
+__pycache__/
+*.ipynb_checkpoints
+.DS_Store
+
+# Python byte code
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Data / large files (add any big datasets you don't want in git)
+*.csv
+*.xlsx
+*.parquet
+data/
+models/
